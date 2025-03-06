@@ -1,0 +1,1 @@
+import{_ as e,c as n,r as t,o as a}from"./desktop-DoxntJqb.js";const s={name:"foundation-position"};function c(p,r,i,_,d,f){const o=t("page-crud");return a(),n(o,{"page-name":"foundation-position","page-key":"position"})}const m=e(s,[["render",c]]);export{m as default};

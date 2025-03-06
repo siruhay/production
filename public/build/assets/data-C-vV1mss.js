@@ -1,0 +1,1 @@
+import{_ as n,c as r,w as t,r as s,o as a}from"./desktop-DoxntJqb.js";const d={name:"system-module-crete"};function f(m,o,p,i,_,l){const e=s("form-data");return a(),r(e,{"hide-addnew":""},{feed:t(()=>o[0]||(o[0]=[])),info:t(()=>o[1]||(o[1]=[])),filter:t(()=>o[2]||(o[2]=[])),_:1})}const c=n(d,[["render",f]]);export{c as default};

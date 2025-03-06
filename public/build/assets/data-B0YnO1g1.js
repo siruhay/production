@@ -1,0 +1,1 @@
+import{_ as r,c as e,w as o,r as s,o as a}from"./desktop-DoxntJqb.js";const f={name:"reference-faith-data"};function p(d,t,i,m,l,_){const n=s("form-data");return a(),e(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=r(f,[["render",p]]);export{c as default};
