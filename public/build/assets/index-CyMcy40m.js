@@ -1,0 +1,1 @@
+import{_ as e,c as n,r as t,o as c}from"./desktop-C9C_LOCf.js";const a={name:"foundation-community"};function r(s,p,m,_,u,i){const o=t("page-crud");return c(),n(o,{"page-name":"foundation-community","page-key":"community"})}const f=e(a,[["render",r]]);export{f as default};

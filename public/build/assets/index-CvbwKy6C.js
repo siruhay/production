@@ -1,1 +1,0 @@
-import{_ as n,c as e,r as c,o as t}from"./desktop-DoxntJqb.js";const a={name:"account-notification"};function r(s,i,p,_,f,u){const o=c("page-crud");return t(),e(o,{"page-name":"account-notification","page-key":"notification"})}const m=n(a,[["render",r]]);export{m as default};

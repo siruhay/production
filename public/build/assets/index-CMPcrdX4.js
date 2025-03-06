@@ -1,1 +1,0 @@
-import{_ as t,c as a,r as o,o as n}from"./desktop-DoxntJqb.js";const s={name:"system-ability"};function r(c,p,m,_,i,d){const e=o("page-crud");return n(),a(e,{"page-name":"system-ability","page-key":"ability","parent-name":"system-module","parent-key":"module"})}const u=t(s,[["render",r]]);export{u as default};

@@ -1,1 +1,0 @@
-import{_ as t,c as n,r,o as s}from"./desktop-DoxntJqb.js";const c={name:"training-subdistrict"};function o(a,i,p,_,d,u){const e=r("page-crud");return s(),n(e,{"page-name":"training-subdistrict","page-key":"subdistrict"})}const f=t(c,[["render",o]]);export{f as default};

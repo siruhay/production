@@ -1,0 +1,1 @@
+import{_ as n,c as r,r as o,o as c}from"./desktop-C9C_LOCf.js";const a={name:"reference-gender"};function t(s,p,_,d,f,g){const e=o("page-crud");return c(),r(e,{"page-name":"reference-gender","page-key":"gender"})}const u=n(a,[["render",t]]);export{u as default};

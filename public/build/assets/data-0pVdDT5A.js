@@ -1,1 +1,0 @@
-import{_ as a,c as r,w as t,r as s,o as e}from"./desktop-DoxntJqb.js";const m={name:"foundation-communitymap-data"};function p(f,o,d,i,l,u){const n=s("form-data");return e(),r(n,null,{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const c=a(m,[["render",p]]);export{c as default};

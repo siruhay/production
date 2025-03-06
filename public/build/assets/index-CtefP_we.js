@@ -1,0 +1,1 @@
+import{_ as n,c as r,r as c,o}from"./desktop-C9C_LOCf.js";const a={name:"reference-regency"};function t(s,p,_,f,d,g){const e=c("page-crud");return o(),r(e,{"page-name":"reference-regency","page-key":"regency"})}const u=n(a,[["render",t]]);export{u as default};

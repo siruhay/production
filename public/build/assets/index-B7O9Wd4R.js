@@ -1,0 +1,1 @@
+import{_ as c,c as t,r as a,o}from"./desktop-C9C_LOCf.js";const n={name:"account-activity"};function r(s,p,_,i,u,d){const e=a("page-crud");return o(),t(e,{"page-name":"account-activity","page-key":"activity"})}const f=c(n,[["render",r]]);export{f as default};

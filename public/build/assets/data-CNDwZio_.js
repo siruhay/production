@@ -1,1 +1,0 @@
-import{_ as t,c as a,r as n,o as c}from"./desktop-DoxntJqb.js";const e={name:"account-notification-data"};function r(s,_,p,f,d,m){const o=n("form-data");return c(),a(o)}const u=t(e,[["render",r]]);export{u as default};

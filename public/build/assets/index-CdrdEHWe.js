@@ -1,1 +1,0 @@
-import{_ as o,c as n,r,o as t}from"./desktop-DoxntJqb.js";const a={name:"training-history"};function s(c,p,i,_,d,m){const e=r("page-crud");return t(),n(e,{"page-name":"training-history","page-key":"history"})}const g=o(a,[["render",s]]);export{g as default};

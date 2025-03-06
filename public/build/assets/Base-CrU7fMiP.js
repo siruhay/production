@@ -1,0 +1,1 @@
+import{_ as o,c as r,r as a,o as n}from"./desktop-C9C_LOCf.js";const s={name:"reference-base"};function t(c,p,_,m,f,d){const e=a("page-base");return n(),r(e,{"module-name":"reference","module-key":"reference","module-type":"administrator"})}const u=o(s,[["render",t]]);export{u as default};

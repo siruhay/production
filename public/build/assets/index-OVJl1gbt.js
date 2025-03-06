@@ -1,1 +1,0 @@
-import{_ as t,c as r,r as a,o}from"./desktop-DoxntJqb.js";const s={name:"system-thirdparty"};function n(c,p,_,d,m,i){const e=a("page-crud");return o(),r(e,{"page-name":"system-thirdparty","page-key":"thirdparty"})}const u=t(s,[["render",n]]);export{u as default};

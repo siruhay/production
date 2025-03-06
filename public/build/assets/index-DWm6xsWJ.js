@@ -1,0 +1,1 @@
+import{_ as t,c as n,r,o as a}from"./desktop-C9C_LOCf.js";const o={name:"training-pretest"};function s(p,c,i,_,m,d){const e=r("page-crud");return a(),n(e,{"page-name":"training-pretest","page-key":"pretest","parent-name":"training-history","parent-key":"history"})}const f=t(o,[["render",s]]);export{f as default};

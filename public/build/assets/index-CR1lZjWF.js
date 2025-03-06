@@ -1,1 +1,0 @@
-import{_ as a,c as n,w as t,r,o as s}from"./desktop-DoxntJqb.js";const p={name:"training-dashboard"};function c(_,e,d,i,m,f){const o=r("page-home");return s(),n(o,{"page-name":"training-dashboard"},{default:t(()=>e[0]||(e[0]=[])),_:1})}const l=a(p,[["render",c]]);export{l as default};
