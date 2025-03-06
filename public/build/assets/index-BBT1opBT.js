@@ -1,0 +1,1 @@
+import{_ as t,b as n,d as r,o as a}from"./App-CGl17uA2.js";const o={name:"training-pretest"};function s(p,c,i,_,d,m){const e=r("page-crud");return a(),n(e,{"page-name":"training-pretest","page-key":"pretest","parent-name":"training-history","parent-key":"history"})}const f=t(o,[["render",s]]);export{f as default};

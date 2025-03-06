@@ -17,7 +17,7 @@ export default defineConfig({
     },
     plugins: [
         laravel({
-            input: ["resources/src/desktop.js"],
+            input: ["resources/src/desktop.js", "resources/src/mobile.js"],
             refresh: true,
             detectTls: "devsiruhay.test",
         }),

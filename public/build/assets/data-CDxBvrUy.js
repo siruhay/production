@@ -1,1 +1,0 @@
-import{_ as s,c as r,w as t,r as a,o as e}from"./desktop-C9C_LOCf.js";const p={name:"foundation-position-data"};function f(i,o,d,m,l,u){const n=a("form-data");return e(),r(n,null,{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const x=s(p,[["render",f]]);export{x as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as r,w as o,r as s,o as a}from"./desktop-C9C_LOCf.js";const d={name:"training-presence-data"};function p(i,t,f,m,_,l){const n=s("form-data");return a(),r(n,{"hide-addnew":""},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=e(d,[["render",p]]);export{c as default};

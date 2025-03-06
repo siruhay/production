@@ -1,0 +1,1 @@
+import{_ as s,b as o,d as n,o as r}from"./App-CGl17uA2.js";const t={name:"system-user"};function a(c,p,_,m,u,d){const e=n("page-crud");return r(),o(e,{"page-name":"system-user","page-key":"user"})}const i=s(t,[["render",a]]);export{i as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as n,w as t,r as s,o as r}from"./desktop-C9C_LOCf.js";const p={name:"foundation-dashboard"};function d(c,o,_,f,m,i){const e=s("page-home");return r(),n(e,{"page-name":"foundation-dashboard"},{default:t(()=>o[0]||(o[0]=[])),_:1})}const l=a(p,[["render",d]]);export{l as default};

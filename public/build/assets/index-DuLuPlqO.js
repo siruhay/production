@@ -1,0 +1,1 @@
+import{_ as n,b as t,w as a,d as r,o as p}from"./App-CGl17uA2.js";const s={name:"myfoundation-report"};function c(_,e,d,f,m,i){const o=r("page-blank");return p(),t(o,{"page-name":"myfoundation-report","page-key":"report"},{default:a(({record:l})=>e[0]||(e[0]=[])),_:1})}const k=n(s,[["render",c]]);export{k as default};

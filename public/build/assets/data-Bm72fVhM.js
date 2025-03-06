@@ -1,1 +1,0 @@
-import{_ as r,c as a,w as o,r as s,o as e}from"./desktop-C9C_LOCf.js";const i={name:"training-village-data"};function p(f,t,l,d,m,_){const n=s("form-data");return e(),a(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=r(i,[["render",p]]);export{x as default};

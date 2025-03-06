@@ -1,1 +1,0 @@
-import{_ as r,c as a,w as t,r as s,o as e}from"./desktop-C9C_LOCf.js";const d={name:"mytraining-rundown-data"};function i(p,o,f,m,_,l){const n=s("form-data");return e(),a(n,{"hide-addnew":""},{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const w=r(d,[["render",i]]);export{w as default};
