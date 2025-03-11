@@ -1,0 +1,1 @@
+import{_ as a,b as n,d as o,o as t}from"./App-BBQ8l9BG.js";const s={name:"training-base"};function r(c,p,i,_,m,d){const e=o("page-base");return t(),n(e,{"module-name":"training","module-key":"training","module-type":"administrator"})}const u=a(s,[["render",r]]);export{u as default};

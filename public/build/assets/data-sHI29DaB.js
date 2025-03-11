@@ -1,1 +1,0 @@
-import{_ as e,b as r,w as o,d as s,o as a}from"./App-CGl17uA2.js";const d={name:"training-presence-data"};function p(i,t,f,m,_,l){const n=s("form-data");return a(),r(n,{"hide-addnew":""},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=e(d,[["render",p]]);export{x as default};

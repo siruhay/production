@@ -1,0 +1,1 @@
+import{_ as n,b as r,d as a,o as t}from"./App-BBQ8l9BG.js";const o={name:"training-presence"};function s(c,p,i,_,d,m){const e=a("page-crud");return t(),r(e,{"page-name":"training-presence","page-key":"presence","parent-name":"training-history","parent-key":"history"})}const f=n(o,[["render",s]]);export{f as default};
