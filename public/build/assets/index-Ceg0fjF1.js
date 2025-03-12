@@ -1,0 +1,1 @@
+import{_ as a,b as e,d as t,o as r}from"./App-BBIF3j1C.js";const o={name:"training-participant"};function p(c,i,s,_,d,m){const n=t("page-crud");return r(),e(n,{"page-name":"training-participant","page-key":"participant","parent-name":"training-history","parent-key":"history"})}const f=a(o,[["render",p]]);export{f as default};
