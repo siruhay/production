@@ -1,1 +1,0 @@
-import{_ as o,b as a,d as n,o as t}from"./App-BBQ8l9BG.js";const s={name:"foundation-base"};function r(c,p,d,_,m,u){const e=n("page-base");return t(),a(e,{"module-name":"foundation","module-key":"foundation","module-type":"administrator"})}const i=o(s,[["render",r]]);export{i as default};

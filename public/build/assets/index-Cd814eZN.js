@@ -1,0 +1,1 @@
+import{_ as n,b as e,d as t,o as c}from"./App-cv_I9iZO.js";const a={name:"account-notification"};function r(s,i,p,_,f,d){const o=t("page-crud");return c(),e(o,{"page-name":"account-notification","page-key":"notification"})}const m=n(a,[["render",r]]);export{m as default};
