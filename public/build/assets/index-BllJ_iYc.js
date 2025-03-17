@@ -1,1 +1,0 @@
-import{_ as n,b as r,d as o,o as c}from"./App-BBIF3j1C.js";const a={name:"reference-gender"};function t(s,p,_,d,f,g){const e=o("page-crud");return c(),r(e,{"page-name":"reference-gender","page-key":"gender"})}const u=n(a,[["render",t]]);export{u as default};

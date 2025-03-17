@@ -1,1 +1,0 @@
-import{_ as a,b as e,w as o,d as r,o as s}from"./App-BBIF3j1C.js";const i={name:"mytraining-presence-data"};function p(m,t,d,f,_,l){const n=r("form-data");return s(),e(n,{"navback-to":"mytraining-event-show"},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=a(i,[["render",p]]);export{c as default};

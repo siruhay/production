@@ -1,1 +1,0 @@
-import{_ as e,b as a,d as n,o as c}from"./App-BBIF3j1C.js";const t={name:"foundation-official"};function r(s,f,p,i,_,d){const o=n("page-crud");return c(),a(o,{"page-name":"foundation-official","page-key":"official"})}const l=e(t,[["render",r]]);export{l as default};

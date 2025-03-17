@@ -1,1 +1,0 @@
-import{_ as r,b as e,w as o,d as s,o as a}from"./App-BBIF3j1C.js";const d={name:"reference-district-data"};function f(p,t,i,m,l,_){const n=s("form-data");return a(),e(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=r(d,[["render",f]]);export{c as default};

@@ -1,1 +1,0 @@
-import{_ as o,b as n,d as t,o as r}from"./App-BBIF3j1C.js";const a={name:"mytraining-history"};function s(c,p,i,_,m,d){const e=t("page-crud");return r(),n(e,{"page-name":"mytraining-history","page-key":"history"})}const g=o(a,[["render",s]]);export{g as default};
