@@ -1,1 +1,0 @@
-import{_ as n,b as a,d as o,o as t}from"./App-qzeUvdnS.js";const r={name:"foundation-village"};function s(c,p,i,d,_,u){const e=o("page-crud");return t(),a(e,{"page-name":"foundation-village","page-key":"village","parent-name":"foundation-subdistrict","parent-key":"subdistrict"})}const f=n(r,[["render",s]]);export{f as default};

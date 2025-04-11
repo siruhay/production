@@ -1,1 +1,0 @@
-import{_ as t,b as r,d as a,o}from"./App-qzeUvdnS.js";const s={name:"system-thirdparty"};function n(p,c,_,d,m,i){const e=a("page-crud");return o(),r(e,{"page-name":"system-thirdparty","page-key":"thirdparty"})}const u=t(s,[["render",n]]);export{u as default};

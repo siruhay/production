@@ -1,0 +1,1 @@
+import{_ as a,b as n,d as o,o as r}from"./App-D-Ma-qS6.js";const t={name:"reference-faith"};function c(s,p,_,f,d,i){const e=o("page-crud");return r(),n(e,{"page-name":"reference-faith","page-key":"faith"})}const u=a(t,[["render",c]]);export{u as default};

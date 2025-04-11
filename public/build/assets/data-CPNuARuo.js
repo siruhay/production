@@ -1,0 +1,1 @@
+import{_ as r,b as s,w as o,d as e,o as a}from"./App-D-Ma-qS6.js";const p={name:"training-presence-data"};function d(f,t,i,m,l,_){const n=e("form-data");return a(),s(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=r(p,[["render",d]]);export{x as default};
