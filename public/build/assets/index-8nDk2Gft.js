@@ -1,1 +1,0 @@
-import{_ as t,b as o,w as a,d as r,o as p}from"./App-D-Ma-qS6.js";const s={name:"mytraining-report"};function _(c,e,i,m,d,f){const n=r("page-blank");return p(),o(n,{"page-name":"mytraining-report","page-key":"report"},{default:a(()=>e[0]||(e[0]=[])),_:1})}const g=t(s,[["render",_]]);export{g as default};

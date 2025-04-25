@@ -1,1 +1,0 @@
-import{_ as a,b as r,w as o,d as s,o as e}from"./App-D-Ma-qS6.js";const p={name:"mytraining-participant-data"};function i(d,t,f,m,l,_){const n=s("form-data");return e(),r(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=a(p,[["render",i]]);export{x as default};

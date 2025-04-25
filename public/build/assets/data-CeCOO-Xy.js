@@ -1,1 +1,0 @@
-import{_ as s,b as r,w as o,d as a,o as e}from"./App-D-Ma-qS6.js";const i={name:"training-setting-data"};function p(d,t,f,m,l,_){const n=a("form-data");return e(),r(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=s(i,[["render",p]]);export{x as default};

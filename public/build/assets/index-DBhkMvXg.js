@@ -1,1 +1,0 @@
-import{_ as n,b as t,d as a,o}from"./App-D-Ma-qS6.js";const s={name:"training-postest"};function r(p,c,_,i,d,m){const e=a("page-crud");return o(),t(e,{"page-name":"training-postest","page-key":"postest","parent-name":"training-event","parent-key":"event"})}const f=n(s,[["render",r]]);export{f as default};

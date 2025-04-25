@@ -1,1 +1,0 @@
-import{_ as e,b as n,d as t,o as a}from"./App-D-Ma-qS6.js";const c={name:"myfoundation-community"};function m(r,s,p,_,u,d){const o=t("page-crud");return a(),n(o,{"page-name":"myfoundation-community","page-key":"community"})}const f=e(c,[["render",m]]);export{f as default};
