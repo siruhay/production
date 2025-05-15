@@ -1,1 +1,0 @@
-import{_ as a,b as t,d as n,o as s}from"./App-CFpF7P-2.js";const o={name:"system-abilitypage"};function p(r,c,i,_,m,y){const e=n("page-crud");return s(),t(e,{"page-name":"system-abilitypage","page-key":"abilitypage","parent-name":"system-ability","parent-key":"ability"})}const d=a(o,[["render",p]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,b as o,d as n,o as a}from"./App-DJ50b1wi.js";const c={name:"posyandu-submission"};function p(t,r,_,i,u,d){const s=n("page-crud");return a(),o(s,{"page-name":"posyandu-submission","page-key":"submission"})}const f=e(c,[["render",p]]);export{f as default};

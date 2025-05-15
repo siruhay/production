@@ -1,0 +1,1 @@
+import{_ as e,b as a,w as o,d as r,o as s}from"./App-DJ50b1wi.js";const d={name:"mytraining-event-data"};function i(p,t,f,m,_,l){const n=r("form-data");return s(),a(n,{"hide-addnew":""},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=e(d,[["render",i]]);export{x as default};

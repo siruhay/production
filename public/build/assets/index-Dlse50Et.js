@@ -1,1 +1,0 @@
-import{_ as n,b as t,d as o,o as a}from"./App-CFpF7P-2.js";const r={name:"mytraining-event"};function c(s,p,_,i,m,d){const e=o("page-crud");return a(),t(e,{"page-name":"mytraining-event","page-key":"event"})}const g=n(r,[["render",c]]);export{g as default};

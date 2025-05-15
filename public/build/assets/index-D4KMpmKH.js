@@ -1,1 +1,0 @@
-import{_ as o,b as n,d as t,o as s}from"./App-CFpF7P-2.js";const a={name:"system-report"};function r(p,c,_,m,d,f){const e=t("page-blank");return s(),n(e,{"page-name":"system-report"})}const i=o(a,[["render",r]]);export{i as default};

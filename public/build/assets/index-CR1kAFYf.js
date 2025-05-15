@@ -1,1 +1,0 @@
-import{_ as a,b as t,w as n,d as s,o as p}from"./App-CFpF7P-2.js";const r={name:"posyandu-dashboard"};function d(_,e,c,m,i,f){const o=s("page-home");return p(),t(o,{"page-name":"posyandu-dashboard","page-title":"Untitled"},{default:n(()=>e[0]||(e[0]=[])),_:1})}const u=a(r,[["render",d]]);export{u as default};

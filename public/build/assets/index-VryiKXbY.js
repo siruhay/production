@@ -1,1 +1,0 @@
-import{_ as n,b as r,d as a,o as t}from"./App-CFpF7P-2.js";const o={name:"mytraining-presence"};function s(c,p,i,_,m,d){const e=a("page-crud");return t(),r(e,{"page-name":"mytraining-presence","page-key":"presence","parent-name":"mytraining-history","parent-key":"history"})}const y=n(o,[["render",s]]);export{y as default};
