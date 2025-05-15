@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as o,d as s,o as a}from"./App-CFpF7P-2.js";const p={name:"system-module-crete"};function f(m,t,d,i,_,l){const e=s("form-data");return a(),r(e,{chip:"parent_name"},{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const c=n(p,[["render",f]]);export{c as default};

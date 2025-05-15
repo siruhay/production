@@ -1,0 +1,1 @@
+import{_ as t,b as n,d as o,o as a}from"./App-CFpF7P-2.js";const s={name:"training-postest"};function r(p,c,i,_,d,m){const e=o("page-crud");return a(),n(e,{"page-name":"training-postest","page-key":"postest","parent-name":"training-history","parent-key":"history"})}const f=t(s,[["render",r]]);export{f as default};
