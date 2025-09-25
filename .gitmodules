@@ -1,0 +1,6 @@
+[submodule "modules/foundation"]
+	path = modules/foundation
+	url = https://github.com/siruhay/mod-foundation.git
+[submodule "modules/myfoundation"]
+	path = modules/myfoundation
+	url = https://github.com/siruhay/mod-myfoundation.git
