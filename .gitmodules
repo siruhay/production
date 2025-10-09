@@ -10,3 +10,15 @@
 [submodule "modules/myposyandu"]
 	path = modules/myposyandu
 	url = https://github.com/siruhay/module-myposyandu.git
+[submodule "modules/training"]
+	path = modules/training
+	url = https://github.com/siruhay/mod-training.git
+[submodule "modules/mytraining"]
+	path = modules/mytraining
+	url = https://github.com/siruhay/mod-mytraining.git
+[submodule "modules/system"]
+	path = modules/system
+	url = https://github.com/siruhay/mod-system.git
+[submodule "modules/reference"]
+	path = modules/reference
+	url = https://github.com/siruhay/mod-reference.git
