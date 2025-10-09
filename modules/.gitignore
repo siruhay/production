@@ -1,6 +1,10 @@
 *
+!system
+!reference
 !foundation
 !myfoundation
+!training
+!mytraining
 !posyandu
 !myposyandu
 !.gitignore
