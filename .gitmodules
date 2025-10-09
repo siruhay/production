@@ -4,3 +4,9 @@
 [submodule "modules/myfoundation"]
 	path = modules/myfoundation
 	url = https://github.com/siruhay/mod-myfoundation.git
+[submodule "modules/posyandu"]
+	path = modules/posyandu
+	url = https://github.com/siruhay/mod-posyandu.git
+[submodule "modules/myposyandu"]
+	path = modules/myposyandu
+	url = https://github.com/siruhay/module-myposyandu.git
