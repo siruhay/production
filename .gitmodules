@@ -22,3 +22,6 @@
 [submodule "modules/reference"]
 	path = modules/reference
 	url = https://github.com/siruhay/mod-reference.git
+[submodule "packages/monoland/starterkit"]
+	path = packages/monoland/starterkit
+	url = https://github.com/siruhay/starterkit.git
