@@ -1,0 +1,1 @@
+import{_ as n,b as t,d as o,o as a}from"./App-B1FOlATE.js";const s={name:"training-setting"};function r(c,p,i,_,g,d){const e=o("page-crud");return a(),t(e,{"page-name":"training-setting","page-key":"setting"})}const f=n(s,[["render",r]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as t,b as n,d as s,o}from"./App-DJ50b1wi.js";const r={name:"training-subdistrict"};function a(c,i,p,_,d,u){const e=s("page-crud");return o(),n(e,{"page-name":"training-subdistrict","page-key":"subdistrict"})}const f=t(r,[["render",a]]);export{f as default};

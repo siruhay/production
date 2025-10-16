@@ -1,1 +1,0 @@
-import{_ as n,b as o,d as t,o as s}from"./App-DJ50b1wi.js";const a={name:"posyandu-setting"};function c(p,r,_,d,i,u){const e=t("page-crud");return s(),o(e,{"page-name":"posyandu-setting","page-key":"setting"})}const m=n(a,[["render",c]]);export{m as default};

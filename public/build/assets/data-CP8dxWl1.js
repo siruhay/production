@@ -1,0 +1,1 @@
+import{_ as a,b as s,w as t,d as e,o as r}from"./App-B1FOlATE.js";const d={name:"foundation-community-data"};function f(i,o,m,p,u,_){const n=e("form-data");return r(),s(n,{"hide-addnew":""},{forminfo:t(()=>[...o[0]||(o[0]=[])]),helpdesk:t(()=>[...o[1]||(o[1]=[])]),utility:t(()=>[...o[2]||(o[2]=[])]),_:1})}const x=a(d,[["render",f]]);export{x as default};

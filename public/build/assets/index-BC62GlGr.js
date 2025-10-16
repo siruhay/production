@@ -1,1 +1,0 @@
-import{_ as n,b as a,d as r,o as t}from"./App-DJ50b1wi.js";const o={name:"mytraining-presence"};function c(p,s,_,i,m,d){const e=r("page-crud");return t(),a(e,{"page-name":"mytraining-presence","page-key":"presence","parent-name":"mytraining-event","parent-key":"event"})}const f=n(o,[["render",c]]);export{f as default};

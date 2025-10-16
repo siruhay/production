@@ -1,0 +1,1 @@
+import{_ as e,b as n,d as t,o as a}from"./App-B1FOlATE.js";const r={name:"foundation-workunit"};function c(s,p,_,u,d,i){const o=t("page-crud");return a(),n(o,{"page-name":"foundation-workunit","page-key":"workunit"})}const m=e(r,[["render",c]]);export{m as default};

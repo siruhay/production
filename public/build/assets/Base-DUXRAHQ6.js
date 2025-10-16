@@ -1,1 +1,0 @@
-import{_ as s,b as o,d as t,o as a}from"./App-DJ50b1wi.js";const n={name:"system-base"};function r(c,m,p,_,d,l){const e=t("page-base");return a(),o(e,{"module-name":"system","module-key":"system","module-type":"administrator"})}const f=s(n,[["render",r]]);export{f as default};

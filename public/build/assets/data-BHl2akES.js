@@ -1,1 +1,0 @@
-import{_ as n,b as a,w as t,d as r,o as e}from"./App-DJ50b1wi.js";const p={name:"posyandu-submission-data"};function d(f,o,i,m,l,u){const s=r("form-data");return e(),a(s,null,{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const x=n(p,[["render",d]]);export{x as default};

@@ -1,0 +1,1 @@
+import{_ as n,b as a,d as o,o as c}from"./App-B1FOlATE.js";const r={name:"posyandu-beneficiary"};function s(p,t,_,i,d,f){const e=o("page-crud");return c(),a(e,{"page-name":"posyandu-beneficiary","page-key":"beneficiary"})}const m=n(r,[["render",s]]);export{m as default};
