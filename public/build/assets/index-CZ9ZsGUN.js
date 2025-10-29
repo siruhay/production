@@ -1,0 +1,1 @@
+import{_ as o,b as n,d as a,o as c}from"./App-CxshhH7_.js";const p={name:"myposyandu-complaint"};function t(s,r,m,_,d,i){const e=a("page-crud");return c(),n(e,{"page-name":"myposyandu-complaint","page-key":"complaint"})}const l=o(p,[["render",t]]);export{l as default};

@@ -1,1 +1,0 @@
-import{_ as n,b as o,d as a,o as s}from"./App-B1FOlATE.js";const t={name:"mytraining-base"};function r(c,p,m,_,i,d){const e=a("page-base");return s(),o(e,{"module-name":"mytraining","module-key":"mytraining","module-type":"personal"})}const u=n(t,[["render",r]]);export{u as default};

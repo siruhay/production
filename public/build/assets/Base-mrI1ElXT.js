@@ -1,1 +1,0 @@
-import{_ as o,b as a,d as s,o as n}from"./App-B1FOlATE.js";const p={name:"myposyandu-base"};function t(c,r,m,_,d,u){const e=s("page-base");return n(),a(e,{"module-name":"myposyandu","module-key":"myposyandu","module-type":"personal"})}const y=o(p,[["render",t]]);export{y as default};

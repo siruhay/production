@@ -1,1 +1,0 @@
-import{_ as o,b as a,d as n,o as c}from"./App-B1FOlATE.js";const t={name:"posyandu-category"};function r(s,p,_,d,u,g){const e=n("page-crud");return c(),a(e,{"page-name":"posyandu-category","page-key":"category"})}const f=o(t,[["render",r]]);export{f as default};

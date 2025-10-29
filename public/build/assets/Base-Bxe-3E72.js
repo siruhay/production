@@ -1,0 +1,1 @@
+import{_ as o,b as a,d as s,o as n}from"./App-CxshhH7_.js";const t={name:"posyandu-base"};function p(r,c,d,_,m,u){const e=s("page-base");return n(),a(e,{"module-name":"posyandu","module-key":"posyandu","module-type":"administrator"})}const f=o(t,[["render",p]]);export{f as default};

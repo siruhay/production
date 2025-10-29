@@ -1,1 +1,0 @@
-import{_ as a,b as n,w as s,d as t,o as p}from"./App-B1FOlATE.js";const r={name:"posyandu-dashboard"};function d(_,o,c,m,f,u){const e=t("page-home");return p(),n(e,{"page-name":"posyandu-dashboard"},{default:s(()=>[...o[0]||(o[0]=[])]),_:1})}const l=a(r,[["render",d]]);export{l as default};

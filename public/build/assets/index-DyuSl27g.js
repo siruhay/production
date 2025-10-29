@@ -1,1 +1,0 @@
-import{_ as n,b as t,w as a,d as r,o as p}from"./App-B1FOlATE.js";const s={name:"posyandu-report"};function c(_,e,d,f,l,m){const o=r("page-blank");return p(),t(o,{"page-name":"posyandu-report","page-key":"report"},{default:a(({record:u})=>[...e[0]||(e[0]=[])]),_:1})}const k=n(s,[["render",c]]);export{k as default};

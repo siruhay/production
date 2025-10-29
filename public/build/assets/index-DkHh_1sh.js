@@ -1,0 +1,1 @@
+import{_ as n,b as a,d as e,o as t}from"./App-CxshhH7_.js";const r={name:"foundation-organization"};function c(s,p,i,_,d,f){const o=e("page-crud");return t(),a(o,{"page-name":"foundation-organization","page-key":"organization"})}const g=n(r,[["render",c]]);export{g as default};
