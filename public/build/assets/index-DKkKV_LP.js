@@ -1,0 +1,1 @@
+import{_ as e,b as n,d as a,o as t}from"./App-Cjn2ipPq.js";const r={name:"foundation-workcomm"};function c(p,s,m,_,d,u){const o=a("page-crud");return t(),n(o,{"page-name":"foundation-workcomm","page-key":"workcomm","parent-name":"foundation-workunit","parent-key":"workunit"})}const f=e(r,[["render",c]]);export{f as default};

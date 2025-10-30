@@ -1,1 +1,0 @@
-import{_ as n,b as e,d as t,o as a}from"./App-CxshhH7_.js";const r={name:"foundation-workunitpos"};function p(s,c,u,i,_,d){const o=t("page-crud");return a(),e(o,{"page-name":"foundation-workunitpos","page-key":"workunitpos","parent-name":"foundation-workunit","parent-key":"workunit"})}const k=n(r,[["render",p]]);export{k as default};

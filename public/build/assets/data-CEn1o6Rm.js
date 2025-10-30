@@ -1,0 +1,1 @@
+import{_ as a,b as e,w as o,d as r,o as s}from"./App-Cjn2ipPq.js";const i={name:"training-committee-data"};function m(p,t,d,f,_,l){const n=r("form-data");return s(),e(n,{"navback-to":"training-event-show"},{forminfo:o(()=>[...t[0]||(t[0]=[])]),helpdesk:o(()=>[...t[1]||(t[1]=[])]),utility:o(()=>[...t[2]||(t[2]=[])]),_:1})}const c=a(i,[["render",m]]);export{c as default};

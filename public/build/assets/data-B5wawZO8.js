@@ -1,1 +1,0 @@
-import{_ as a,b as s,w as t,d as e,o as r}from"./App-CxshhH7_.js";const d={name:"posyandu-complaint-data"};function p(f,o,i,m,l,_){const n=e("form-data");return r(),s(n,{"hide-addnew":""},{forminfo:t(()=>[...o[0]||(o[0]=[])]),helpdesk:t(()=>[...o[1]||(o[1]=[])]),utility:t(()=>[...o[2]||(o[2]=[])]),_:1})}const x=a(d,[["render",p]]);export{x as default};

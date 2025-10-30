@@ -1,1 +1,0 @@
-import{_ as a,b as r,w as o,d as s,o as e}from"./App-CxshhH7_.js";const i={name:"mytraining-participant-data"};function p(m,t,d,f,_,l){const n=s("form-data");return e(),r(n,{"navback-to":"mytraining-event-show"},{forminfo:o(()=>[...t[0]||(t[0]=[])]),helpdesk:o(()=>[...t[1]||(t[1]=[])]),utility:o(()=>[...t[2]||(t[2]=[])]),_:1})}const c=a(i,[["render",p]]);export{c as default};

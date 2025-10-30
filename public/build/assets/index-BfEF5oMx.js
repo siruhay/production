@@ -1,0 +1,1 @@
+import{_ as a,b as n,d as o,o as p}from"./App-Cjn2ipPq.js";const t={name:"myposyandu-premise"};function s(r,c,m,i,_,d){const e=o("page-crud");return p(),n(e,{"page-name":"myposyandu-premise","page-key":"premise","parent-name":"myposyandu-activity","parent-key":"activity"})}const u=a(t,[["render",s]]);export{u as default};

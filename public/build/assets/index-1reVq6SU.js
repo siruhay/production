@@ -1,0 +1,1 @@
+import{_ as o,b as n,d as a,o as r}from"./App-Cjn2ipPq.js";const t={name:"foundation-member"};function c(m,p,s,_,d,f){const e=a("page-crud");return r(),n(e,{"page-name":"foundation-member","page-key":"member","parent-name":"foundation-workcomm","parent-key":"workcomm"})}const i=o(t,[["render",c]]);export{i as default};

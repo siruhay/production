@@ -1,1 +1,0 @@
-import{_ as a,b as o,d as t,o as n}from"./App-CxshhH7_.js";const c={name:"posyandu-activity"};function s(p,r,_,i,d,u){const e=t("page-crud");return n(),o(e,{"page-name":"posyandu-activity","page-key":"activity"})}const f=a(c,[["render",s]]);export{f as default};

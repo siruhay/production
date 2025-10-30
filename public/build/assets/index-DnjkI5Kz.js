@@ -1,1 +1,0 @@
-import{_ as o,b as n,d as t,o as r}from"./App-CxshhH7_.js";const a={name:"training-history"};function s(c,p,i,_,d,m){const e=t("page-crud");return r(),n(e,{"page-name":"training-history","page-key":"history"})}const g=o(a,[["render",s]]);export{g as default};

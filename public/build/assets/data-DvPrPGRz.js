@@ -1,0 +1,1 @@
+import{_ as a,b as s,w as t,d as r,o as e}from"./App-Cjn2ipPq.js";const i={name:"foundation-position-data"};function d(f,o,p,m,u,_){const n=r("form-data");return e(),s(n,{"navback-to":"foundation-workunit-show"},{forminfo:t(()=>[...o[0]||(o[0]=[])]),helpdesk:t(()=>[...o[1]||(o[1]=[])]),utility:t(()=>[...o[2]||(o[2]=[])]),_:1})}const k=a(i,[["render",d]]);export{k as default};

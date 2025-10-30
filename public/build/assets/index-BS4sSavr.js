@@ -1,1 +1,0 @@
-import{_ as a,b as e,d as t,o as r}from"./App-CxshhH7_.js";const o={name:"mytraining-participant"};function p(c,i,s,_,m,d){const n=t("page-crud");return r(),e(n,{"page-name":"mytraining-participant","page-key":"participant","parent-name":"mytraining-history","parent-key":"history"})}const y=a(o,[["render",p]]);export{y as default};

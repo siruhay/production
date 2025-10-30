@@ -1,0 +1,1 @@
+import{_ as a,b as r,w as t,d as s,o as e}from"./App-Cjn2ipPq.js";const d={name:"foundation-organization-data"};function f(i,o,p,m,l,u){const n=s("form-data");return e(),r(n,null,{forminfo:t(()=>[...o[0]||(o[0]=[])]),helpdesk:t(()=>[...o[1]||(o[1]=[])]),utility:t(()=>[...o[2]||(o[2]=[])]),_:1})}const x=a(d,[["render",f]]);export{x as default};

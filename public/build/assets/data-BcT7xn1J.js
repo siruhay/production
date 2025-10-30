@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as t,d as s,o as a}from"./App-Cjn2ipPq.js";const d={name:"reference-gender-data"};function f(p,o,m,i,l,_){const e=s("form-data");return a(),r(e,null,{forminfo:t(()=>[...o[0]||(o[0]=[])]),helpdesk:t(()=>[...o[1]||(o[1]=[])]),utility:t(()=>[...o[2]||(o[2]=[])]),_:1})}const x=n(d,[["render",f]]);export{x as default};

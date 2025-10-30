@@ -1,1 +1,0 @@
-import{_ as s,b as r,w as t,d as a,o as e}from"./App-CxshhH7_.js";const p={name:"myposyandu-premise-data"};function d(m,o,f,i,l,u){const n=a("form-data");return e(),r(n,null,{forminfo:t(()=>[...o[0]||(o[0]=[])]),helpdesk:t(()=>[...o[1]||(o[1]=[])]),utility:t(()=>[...o[2]||(o[2]=[])]),_:1})}const x=s(p,[["render",d]]);export{x as default};
